@@ -668,6 +668,7 @@ body{
     .searchbox {
       margin-left: 60%;
       width: 50%;
+        OVERFLOW: HIDDEN;
       
     }
     .searchbox input{
