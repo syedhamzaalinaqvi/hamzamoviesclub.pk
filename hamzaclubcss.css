@@ -440,8 +440,7 @@ body{
 }
 .bubbles{
     position: absolute;
-    height: auto;
-    width: auto;
+   
     z-index: 0;
     overflow: hidden;
     top: 0;
