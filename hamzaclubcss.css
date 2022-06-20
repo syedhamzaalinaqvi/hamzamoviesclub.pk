@@ -80,6 +80,10 @@ body{
   
   
 }
+.searchbox input{
+     box-sizing: none;
+    height:20px
+}
 .searchbox button{
     background-color: rgb(18, 22, 22);
     color: white;
