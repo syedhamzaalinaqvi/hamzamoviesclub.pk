@@ -75,6 +75,8 @@ body{
 }
 .searchbox {
   margin-left: 75%;
+    box-sizing: none;
+    height:20px
   
   
 }
@@ -789,6 +791,7 @@ body{
     }
     .searchbox input{
         font-size: x-small;
+        height: 20px;
 
     }
 
