@@ -83,6 +83,7 @@ body{
 .searchbox button{
     background-color: rgb(18, 22, 22);
     color: white;
+    cursor: pointer;
     
     
 }
