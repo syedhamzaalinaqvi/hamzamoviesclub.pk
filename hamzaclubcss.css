@@ -701,7 +701,7 @@ body{
 
 
 
-@media all and (max-width: 600px) and (min-width: 200px)
+@media all and (max-width: 720px)
 {
     body{
         margin: 0;
