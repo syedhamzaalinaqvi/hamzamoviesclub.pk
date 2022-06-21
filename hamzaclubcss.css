@@ -29,8 +29,8 @@ nav .logo{
 }
 nav button i {
     border-right: 1px;
-    color: white;
-    position: fixed;
+    color: black;
+    position: absolute;
      background-color: black;    
 }
 nav button{
