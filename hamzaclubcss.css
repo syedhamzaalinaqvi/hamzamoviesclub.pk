@@ -10,7 +10,7 @@ body{
 
 
 nav{
-    height: 80px;
+    height: 30px;
     justify-content: space-between;
     background-color: black;
     display: flex;
@@ -30,6 +30,7 @@ nav .logo{
 nav button i {
     border-right: 1px;
     color: white;
+    position: fixed;
     
 }
 nav button{
@@ -755,10 +756,14 @@ nav button{
     }
     nav{
         height: 50px;
-        
+        padding: 0;
+        content-align: none;
     }
     nav input{
         width: 100px;
+    }
+    nav .logo{
+       font-size: 20pt;
     }
     .head{
         background-color: rgb(0, 0, 0);
