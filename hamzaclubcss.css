@@ -25,13 +25,14 @@ nav input{
 }
 nav .logo{
     color: red;
-    font-size: 25pt;
+    font-size: 18px;
 }
 nav button i {
     border-right: 1px;
-    color: black;
+    color: white;
     position: absolute;
-     background-color: black;    
+     background-color: black;
+    font-size: 20px;
 }
 nav button{
     background-color: black;
