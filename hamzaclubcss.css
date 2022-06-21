@@ -26,7 +26,7 @@ nav input{
 }
 nav .logo{
     color: red;
-    font-size: 20px;
+    font-size: 25px;
 }
 nav button i {
     border-right: 1px;
@@ -773,7 +773,7 @@ nav button{
         width: 100px;
     }
     nav .logo{
-       font-size: 12px;
+       font-size: 25px;
     }
     nav button {
         background-color: black;
