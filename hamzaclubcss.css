@@ -99,7 +99,10 @@ nav button{
     background-color: gray;
     transition: 0.5s;
 
-} 
+}
+.contact #formid{
+    transition: 1s;
+}
 .about{
     width: 10%;
     background-color: rgb(18, 22, 22);
