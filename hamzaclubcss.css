@@ -101,7 +101,7 @@ nav button{
     transition: 0.5s;
 
 }
-.contact #formid{
+.contact a{
     transition: 1s;
 }
 .about{
