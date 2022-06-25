@@ -22,6 +22,7 @@ nav input{
     box-sizing: none;
     width: 250px;
     background-color: white;
+     position: absolute;
     
 }
 nav .logo{
