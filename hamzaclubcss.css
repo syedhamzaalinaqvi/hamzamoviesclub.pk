@@ -27,7 +27,8 @@ nav input{
 nav .logo{
     color: red;
     font-size: 25px;
-    background-color: white;
+    letter-spacing: 1px;
+    font-weight: 200px;
 }
 nav button i {
     border-right: 1px;
