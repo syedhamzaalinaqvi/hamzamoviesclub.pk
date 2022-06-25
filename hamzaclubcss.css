@@ -34,13 +34,14 @@ nav .logo{
 nav button i {
     border-right: 1px;
     color: white;
-    position: absolute;
+    position: relative;
      background-color: black;
     font-size: 20px;
 }
 nav button{
     background-color: black;
     color: white;
+    bottom-border: 0.5px solod white;
 }
 
 
