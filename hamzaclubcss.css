@@ -846,7 +846,7 @@ nav .logo{
         background-color: rgb(18, 22, 22);
         color: white;
         font-size: x-small;
-        position: absolute;
+        position: fixed;
     }
     .searchbox button:hover{
         background-color: gray;
