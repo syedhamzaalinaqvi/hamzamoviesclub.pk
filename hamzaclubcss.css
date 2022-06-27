@@ -339,15 +339,16 @@ nav .logo{
     color: white;
 }
 
-.nextbutton{
-    background-color:  rgb(18, 22, 22);
-    align-items: centre;
-    width: 10%;
+.nextbuttondiv button{
+    background-color:  black;
+    text-align: centre;
+    width: 100%;
     letter-spacing: 1px;
+    color: white;
     
 
 }
-.nextbutton:hover{
+.nextbuttondiv button:hover{
     background-color: gray;
     transition: 0.5s;
 }
