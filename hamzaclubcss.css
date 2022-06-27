@@ -339,9 +339,20 @@ nav .logo{
     color: white;
 }
 
-#formid{
+.nextbutton{
+    background-color:  rgb(18, 22, 22);
+    align-items: centre;
+    width: 10%;
+    letter-spacing: 1px;
     
+
 }
+.nextbutton:hover{
+    background-color: gray;
+    transition: 0.5s;
+}
+
+
 .formdiv{
     float: left;
     background-color: rgb(18, 22, 22);
