@@ -17,32 +17,14 @@ nav{
     padding: 0 50px 0 100px;
     align-items: center;
 }
-nav input{
-    height: 20px;
-    box-sizing: none;
-    width: 200px;
-    background-color: white;
-   
-    
-}
+
 nav .logo{
     color: red;
     font-size: 25px;
     letter-spacing: 1px;
     font-weight: 200px;
 }
-nav button i {
-    border-right: 1px;
-    color: white;
-    
-     background-color: black;
-    font-size: 20px;
-}
-nav button{
-    background-color: black;
-    color: white;
-   
-}
+
 
 
 
@@ -757,7 +739,7 @@ nav button{
 
 
 
-@media all and (max-width: 720px)
+@media all and (max-width: 914px)
 {
     body{
         margin: 0;
@@ -772,6 +754,7 @@ nav button{
  
     nav .logo{
        font-size: 25px;
+       font-weight: 200px; 
     }
   
     .head{
@@ -850,7 +833,7 @@ nav button{
     .searchbox {
       margin-left: 60%;
       
-        OVERFLOW: HIDDEN;
+       
       
     }
     .searchbox input{
@@ -863,7 +846,7 @@ nav button{
         background-color: rgb(18, 22, 22);
         color: white;
         font-size: x-small;
-        
+        position: absolute;
     }
     .searchbox button:hover{
         background-color: gray;
