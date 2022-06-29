@@ -341,14 +341,14 @@ nav .logo{
 
 .nextbuttondiv{
     width: 100%;
-    margin: 5px;
-    background-color:  black;
+    float: left;
+    background-color:  blue;
 
 }
 .nextbuttondiv button{
     background-color:  black;
-    text-align: centre;
-    width: 40px;
+   
+    width: 50px;
     letter-spacing: 1px;
     border: 1px solid white;
     
