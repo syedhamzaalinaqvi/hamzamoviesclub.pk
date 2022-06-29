@@ -339,13 +339,23 @@ nav .logo{
     color: white;
 }
 
+.nextbuttondiv{
+    width: 100%;
+    margin: 5px;
+
+}
 .nextbuttondiv button{
     background-color:  black;
     text-align: centre;
-    width: 100%;
+    width: 40px;
     letter-spacing: 1px;
-    color: white;
     
+    
+
+}
+.nextbuttondiv button a{
+    text-decoration: none;
+    color: white;
 
 }
 .nextbuttondiv button:hover{
