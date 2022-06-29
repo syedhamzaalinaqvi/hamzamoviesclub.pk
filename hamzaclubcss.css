@@ -342,6 +342,7 @@ nav .logo{
 .nextbuttondiv{
     width: 100%;
     margin: 5px;
+    background-color:  black;
 
 }
 .nextbuttondiv button{
@@ -349,6 +350,7 @@ nav .logo{
     text-align: centre;
     width: 40px;
     letter-spacing: 1px;
+    border: 1px solid white;
     
     
 
