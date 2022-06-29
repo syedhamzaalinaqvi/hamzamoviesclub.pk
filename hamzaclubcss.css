@@ -347,7 +347,7 @@ nav .logo{
 }
 .nextbuttondiv button{
     background-color:  black;
-    text-align: center;
+    align-items: center;
     width: 50px;
     letter-spacing: 1px;
     border: 1px solid white;
