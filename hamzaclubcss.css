@@ -346,12 +346,13 @@ nav .logo{
 
 }
 .nextbuttondiv button{
-    background-color:  black;
+    background-color:  rgb(18, 22, 22);
     align-content: center;
-    width: 50px;
+    width: 8%;
     letter-spacing: 1px;
     border: 1px solid white;
-    
+    margin-left: 46%;
+    border-radius: 5px;
     
 
 }
