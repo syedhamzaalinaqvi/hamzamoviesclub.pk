@@ -370,6 +370,7 @@ nav .logo{
     float: left;
      margin-top: 25px;
     background-color:  blue;
+    
 
     
 
@@ -382,7 +383,7 @@ nav .logo{
     border: 1px solid white;
     margin-left: 46%;
     border-radius: 5px;
-    display: flex;
+     display: inline;
     margin: 5px;
 
 }
