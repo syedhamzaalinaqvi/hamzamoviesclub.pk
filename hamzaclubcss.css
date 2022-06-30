@@ -365,7 +365,30 @@ nav .logo{
     background-color: gray;
     transition: 0.5s;
 }
+.nextprebtn{
+    width: 100%;
+    float: left;
+     margin-top: 25px;
 
+    
+
+}
+.nextprebtn button{
+    background-color:  rgb(18, 22, 22);
+    align-content: center;
+    width: 8%;
+    letter-spacing: 1px;
+    border: 1px solid white;
+    margin-left: 46%;
+    border-radius: 5px;
+    
+
+}
+.nextprebtn button a{
+    text-decoration: none;
+    color: white;
+
+}
 
 .formdiv{
     float: left;
