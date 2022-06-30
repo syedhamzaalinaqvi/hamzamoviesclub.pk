@@ -1116,6 +1116,10 @@ nav .logo{
         text-decoration: none;
         color: white;
     }
+    .nextbuttondiv button{
+        width: 10%;
+    
+    }
     
     #formid{
         
