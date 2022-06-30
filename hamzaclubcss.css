@@ -79,11 +79,15 @@ nav .logo{
 .contact a{
     text-decoration: none;
     color: white;
-    transition: 1s;
+    
 } 
 .contact:hover{
     background-color: gray;
     
+
+}
+.contact a:hover{
+    transition: 1s;
 
 }
 
