@@ -381,6 +381,7 @@ nav .logo{
     border: 1px solid white;
     margin-left: 46%;
     border-radius: 5px;
+    display: flex;
     
 
 }
