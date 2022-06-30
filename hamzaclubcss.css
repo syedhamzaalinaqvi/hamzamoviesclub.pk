@@ -373,7 +373,7 @@ nav .logo{
     width: 100%;
     float: left;
      margin-top: 25px;
-    background-color:  blue;
+    background-color:  black;
     
 
     
@@ -1150,7 +1150,12 @@ nav .logo{
         width: 10%;
     
     }
-    .nextprebtn button{ width: 10%;}
+    .nextprebtn button{
+        width: 15%;
+         display: inline;
+        margin: 15px;
+        
+    }
     
     
     #formid{
