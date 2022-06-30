@@ -83,7 +83,7 @@ nav .logo{
 } 
 .contact:hover{
     background-color: gray;
-    transition: 0.5s;
+    
 
 }
 
@@ -414,8 +414,8 @@ nav .logo{
     background-color: gray;
     transition: 0.5s;
 }
-.formid{
-    
+#formid{
+    transition: 1s;
 }
 
 .footer{
