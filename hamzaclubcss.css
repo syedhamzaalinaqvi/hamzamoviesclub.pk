@@ -374,7 +374,7 @@ nav .logo{
     float: left;
      margin-top: 25px;
     background-color:  black;
-    align=-items: center;
+  
     
 
     
@@ -382,7 +382,7 @@ nav .logo{
 }
 .nextprebtn button{
     background-color:  rgb(18, 22, 22);
-    align-content: center;
+    
     width: 8%;
     letter-spacing: 1px;
     border: 1px solid white;
@@ -390,6 +390,7 @@ nav .logo{
     border-radius: 5px;
      display: inline;
     margin: 5px;
+      align=-items: center;
 
 }
 .nextprebtn button a{
