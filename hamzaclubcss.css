@@ -374,6 +374,7 @@ nav .logo{
     float: left;
      margin-top: 25px;
     background-color:  black;
+    display: inline;
   
     
 
@@ -386,9 +387,9 @@ nav .logo{
     width: 8%;
     letter-spacing: 1px;
     border: 1px solid white;
-    margin-left: 46%;
+    margin-left: 35%;
     border-radius: 5px;
-     display: inline;
+     
     margin: 5px;
       align=-items: center;
 
@@ -396,6 +397,15 @@ nav .logo{
 .nextprebtn button a{
     text-decoration: none;
     color: white;
+
+}
+.nextprebtn .prebtndiv{
+    background-color:  red;
+    margin-left: 35%;
+    width: 8%;
+    letter-spacing: 1px;
+    border: 1px solid white;
+    float: left;
 
 }
 
@@ -1150,15 +1160,22 @@ nav .logo{
     }
     .nextbuttondiv button{
         width: 10%;
+        margin-top: 25px;
     
     }
     .nextprebtn button{
         width: 15%;
          display: inline;
-        margin: 15px;
+        margin-left: 40%;
         
     }
+    .prebtndiv{
+        width: 15%;
+         display: inline;
+        margin-left: 35%;
+
     
+    }
     
     #formid{
         
