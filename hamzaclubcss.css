@@ -406,6 +406,7 @@ nav .logo{
     letter-spacing: 1px;
     border: 1px solid white;
     float: left;
+    border-radious: 5px;
 
 }
 
