@@ -409,6 +409,11 @@ nav .logo{
     border-radious: 5px;
 
 }
+.prebtndiv a{
+    text-decoration: none;
+    color: white;
+
+}
 
 .formdiv{
     float: left;
