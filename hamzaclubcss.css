@@ -347,6 +347,7 @@ nav .logo{
     width: 100%;
     float: left;
      margin-top: 25px;
+   background-color:  blue;
 
 }
 .nextbuttondiv button{
@@ -387,7 +388,7 @@ nav .logo{
     width: 8%;
     letter-spacing: 1px;
     border: 1px solid white;
-    margin-left: 35%;
+    margin-left: 40%;
     border-radius: 5px;
      
     margin: 5px;
@@ -407,6 +408,7 @@ nav .logo{
     border: 1px solid white;
     float: left;
     border-radious: 5px;
+    text-align: center; 
 
 }
 .prebtndiv a{
@@ -1172,14 +1174,13 @@ nav .logo{
     .nextprebtn button{
         width: 15%;
          display: inline;
-        margin-left: 40%;
+        
         
     }
     .prebtndiv{
         width: 15%;
          display: inline;
-        margin-left: 35%;
-
+        
     
     }
     
