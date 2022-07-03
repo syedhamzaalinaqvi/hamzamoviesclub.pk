@@ -343,6 +343,28 @@ nav .logo{
     color: white;
 }
 
+.movie10{
+    float: left;
+    width: 20%;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 10%;
+    background-color: rgb(18, 22, 22);
+    border: 2px solid  black;
+    box-shadow: 5px 5px 5px 5px  rgb(170, 46, 46);
+    
+    
+    
+}
+.movie10:hover{
+    background-color: gray;
+    transition: 0.5s;
+}
+.movie10 a{
+    text-decoration: none;
+    color: white;
+}
+
 .nextbuttondiv{
     width: 100%;
     float: left;
@@ -400,22 +422,7 @@ nav .logo{
     color: white;
 
 }
-.nextprebtn .prebtndiv{
-    background-color:  red;
-    margin-left: 35%;
-    width: 8%;
-    letter-spacing: 1px;
-    border: 1px solid white;
-    float: left;
-    border-radious: 5px;
-    text-align: center; 
 
-}
-.prebtndiv a{
-    text-decoration: none;
-    color: white;
-
-}
 
 .formdiv{
     float: left;
@@ -1166,6 +1173,35 @@ nav .logo{
         text-decoration: none;
         color: white;
     }
+    
+     .movie10{
+        float: left;
+        width: 30%;
+        height: 250px;
+        margin-top: 20px;
+        margin-left: 10%;
+        background-color: rgb(18, 22, 22);
+        border: 2px solid  black;
+        box-shadow: 5px 5px 5px 5px  rgb(170, 46, 46);
+        color: white;
+        font-size: x-small;
+        
+    }
+    .movie10 img{
+        height: 195px;
+    }
+    .movie10:hover{
+        background-color: gray;
+        transition: 0.5s;
+        color: black;
+    }
+    .movie10 a{
+        text-decoration: none;
+        color: white;
+    }
+    
+    
+    
     .nextbuttondiv button{
         width: 10%;
         margin-top: 25px;
@@ -1177,12 +1213,7 @@ nav .logo{
         
         
     }
-    .prebtndiv{
-        width: 15%;
-         display: inline;
-        
-    
-    }
+  
     
     #formid{
         
