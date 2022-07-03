@@ -404,7 +404,7 @@ nav .logo{
     
 
 }
-.nextprebtn button{
+.nextprebtn .nextbtn{
     background-color:  rgb(18, 22, 22);
     
     width: 8%;
@@ -413,15 +413,37 @@ nav .logo{
     margin-left: 40%;
     border-radius: 5px;
      
-    margin: 5px;
-      align=-items: center;
+    
+      
 
 }
-.nextprebtn button a{
+.nextprebtn .nextbtn a{
     text-decoration: none;
     color: white;
 
 }
+
+
+.nextprebtn .prebtn{
+    background-color:  rgb(18, 22, 22);
+    
+    width: 8%;
+    letter-spacing: 1px;
+    border: 1px solid white;
+    margin-left: 35%;
+    border-radius: 5px;
+     
+    
+      
+
+}
+.nextprebtn .prebtn a{
+    text-decoration: none;
+    color: white;
+
+}
+
+
 
 
 .formdiv{
@@ -1207,11 +1229,13 @@ nav .logo{
         margin-top: 25px;
     
     }
-    .nextprebtn button{
+    .nextprebtn .nextbtn{
         width: 15%;
-         display: inline;
-        
-        
+             
+    }
+    .nextprebtn .pretbtn
+    {
+        width: 15%;
     }
   
     
