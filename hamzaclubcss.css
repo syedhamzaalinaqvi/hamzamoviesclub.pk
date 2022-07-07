@@ -347,7 +347,7 @@ nav .logo{
     float: left;
     width: 20%;
     height: 300px;
-    margin-top: 10px;
+    margin-top: 20px;
     margin-left: 10%;
     background-color: rgb(18, 22, 22);
     border: 2px solid  black;
@@ -403,6 +403,10 @@ nav .logo{
 
     
 
+}
+.nextprebtn button:hover{
+    background-color: gray;
+    transition: 0.5s;
 }
 .nextprebtn .nextbtn{
     background-color:  rgb(18, 22, 22);
