@@ -404,10 +404,7 @@ nav .logo{
     
 
 }
-.nextprebtn button:hover{
-    background-color: gray;
-    transition: 0.5s;
-}
+
 .nextprebtn .nextbtn{
     background-color:  rgb(18, 22, 22);
     
@@ -416,21 +413,26 @@ nav .logo{
     border: 1px solid white;
     margin: 5px;
     border-radius: 5px;
-     
+    align-content: center; 
     
       
 
 }
+
 .nextprebtn .nextbtn a{
     text-decoration: none;
     color: white;
 
 }
 
+.nextprebtn .nextbtn:hover{
+     background-color: gray;
+    transition: 0.5s;
+}
 
 .nextprebtn .prebtn{
     background-color:  rgb(18, 22, 22);
-    
+    align-content: center;
     width: 8%;
     letter-spacing: 1px;
     border: 1px solid white;
@@ -447,6 +449,10 @@ nav .logo{
 
 }
 
+.nextprebtn .prebtn:hover{
+    background-color: gray;
+    transition: 0.5s;
+}
 
 
 
