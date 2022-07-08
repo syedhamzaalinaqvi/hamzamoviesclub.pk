@@ -453,7 +453,7 @@ nav .logo{
     background-color: gray;
     transition: 0.5s;
 }
-.pgnumber{
+.nextprebtn .pgnumber{
     float: left;
     background-color: red;
     width: 8%;
