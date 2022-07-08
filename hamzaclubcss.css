@@ -460,6 +460,7 @@ nav .logo{
     margin-left: 90%;
     border-radious: 2px;
     color: white;
+    text-align: center;
 }
 
 
@@ -1448,8 +1449,9 @@ nav .logo{
         width: 15%;
     }
   
-    .pgnumber{
+    .nextprebtn .pgnumber{
         width: 15%;
+        font-size: x-small;
     }
     #formid{
         
