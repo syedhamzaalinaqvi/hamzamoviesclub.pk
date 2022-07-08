@@ -453,7 +453,13 @@ nav .logo{
     background-color: gray;
     transition: 0.5s;
 }
-
+.pgnumber{
+    float: left;
+    background-color: red;
+    width: 8%;
+    margin-left: 90%;
+    border-radious: 2px;
+}
 
 
 .formdiv{
