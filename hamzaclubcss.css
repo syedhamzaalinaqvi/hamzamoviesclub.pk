@@ -609,6 +609,12 @@ nav .logo{
     color: white;
     
 }
+.downloadinglink1:hover{
+    background-color: gray;
+    border-radius: 10px 0 10px;
+    transition: 0.5s;
+
+}
 .downloadinglink2{
     float: left;
     background-color: blue;
@@ -625,6 +631,12 @@ nav .logo{
     text-decoration: none;
     color: white;
     
+}
+.downloadinglink2:hover{
+    background-color: gray;
+    border-radius: 10px 0 10px;
+    transition: 0.5s;
+
 }
 .downloadinglink3{
     float: left;
@@ -643,6 +655,12 @@ nav .logo{
     color: white;
     
 }
+.downloadinglink3:hover{
+    background-color: gray;
+    border-radius: 10px 0 10px;
+    transition: 0.5s;
+
+}
 .downloadinglink4{
     float: left;
     background-color: blue;
@@ -659,6 +677,12 @@ nav .logo{
     text-decoration: none;
     color: white;
     
+}
+.downloadinglink4:hover{
+    background-color: gray;
+    border-radius: 10px 0 10px;
+    transition: 0.5s;
+
 }
 .downloadinglink5{
     float: left;
@@ -677,6 +701,12 @@ nav .logo{
     color: white;
     
 }
+.downloadinglink5:hover{
+    background-color: gray;
+    border-radius: 10px 0 10px;
+    transition: 0.5s;
+
+}
 .downloadinglink6{
     float: left;
     background-color: blue;
@@ -693,6 +723,12 @@ nav .logo{
     text-decoration: none;
     color: white;
     
+}
+.downloadinglink6:hover{
+    background-color: gray;
+    border-radius: 10px 0 10px;
+    transition: 0.5s;
+
 }
 .downloadinglink7{
     float: left;
@@ -711,6 +747,12 @@ nav .logo{
     color: white;
     
 }
+.downloadinglink7:hover{
+    background-color: gray;
+    border-radius: 10px 0 10px;
+    transition: 0.5s;
+
+}
 .downloadinglink8{
     float: left;
     background-color: blue;
@@ -728,10 +770,13 @@ nav .logo{
     color: white;
     
 }
-.downloadingserver .eph4{
-    color: green;
-    text-align: center;
+.downloadinglink8:hover{
+    background-color: gray;
+    border-radius: 10px 0 10px;
+    transition: 0.5s;
+
 }
+
 
 
 
