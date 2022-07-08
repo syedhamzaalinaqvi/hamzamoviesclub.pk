@@ -590,6 +590,17 @@ nav .logo{
     
     
 }
+.downloadinglink1{
+    float: left;
+    background-color: blue;
+    color: white;
+    width: 40%;
+    text-align: center;
+    height: 30px;
+    margin-left: 30%;
+    margin-top: 80px;
+    box-shadow: 13px 17px 10px black;
+}
 .bubbles{
     position: absolute;
    
