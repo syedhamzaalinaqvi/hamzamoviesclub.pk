@@ -455,7 +455,7 @@ nav .logo{
 }
 .nextprebtn .pgnumber{
     float: left;
-    background-color: red;
+    background-color: black;
     width: 8%;
     margin-left: 90%;
     border-radious: 2px;
