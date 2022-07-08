@@ -590,6 +590,9 @@ nav .logo{
     
     
 }
+
+
+
 .downloadinglink1{
     float: left;
     background-color: blue;
@@ -598,9 +601,139 @@ nav .logo{
     text-align: center;
     height: 30px;
     margin-left: 30%;
-    margin-top: 80px;
+    
     box-shadow: 13px 17px 10px black;
 }
+.downloadinglink1 a{
+    text-decoration: none;
+    color: white;
+    
+}
+.downloadinglink2{
+    float: left;
+    background-color: blue;
+    color: white;
+    width: 40%;
+    text-align: center;
+    height: 30px;
+    margin-left: 30%;
+    
+    box-shadow: 13px 17px 10px black;
+}
+
+.downloadinglink2 a{
+    text-decoration: none;
+    color: white;
+    
+}
+.downloadinglink3{
+    float: left;
+    background-color: blue;
+    color: white;
+    width: 40%;
+    text-align: center;
+    height: 30px;
+    margin-left: 30%;
+    
+    box-shadow: 13px 17px 10px black;
+}
+
+.downloadinglink3 a{
+    text-decoration: none;
+    color: white;
+    
+}
+.downloadinglink4{
+    float: left;
+    background-color: blue;
+    color: white;
+    width: 40%;
+    text-align: center;
+    height: 30px;
+    margin-left: 30%;
+    
+    box-shadow: 13px 17px 10px black;
+}
+
+.downloadinglink4 a{
+    text-decoration: none;
+    color: white;
+    
+}
+.downloadinglink5{
+    float: left;
+    background-color: blue;
+    color: white;
+    width: 40%;
+    text-align: center;
+    height: 30px;
+    margin-left: 30%;
+    
+    box-shadow: 13px 17px 10px black;
+}
+
+.downloadinglink5 a{
+    text-decoration: none;
+    color: white;
+    
+}
+.downloadinglink6{
+    float: left;
+    background-color: blue;
+    color: white;
+    width: 40%;
+    text-align: center;
+    height: 30px;
+    margin-left: 30%;
+    
+    box-shadow: 13px 17px 10px black;
+}
+
+.downloadinglink6 a{
+    text-decoration: none;
+    color: white;
+    
+}
+.downloadinglink7{
+    float: left;
+    background-color: blue;
+    color: white;
+    width: 40%;
+    text-align: center;
+    height: 30px;
+    margin-left: 30%;
+    
+    box-shadow: 13px 17px 10px black;
+}
+
+.downloadinglink7 a{
+    text-decoration: none;
+    color: white;
+    
+}
+.downloadinglink8{
+    float: left;
+    background-color: blue;
+    color: white;
+    width: 40%;
+    text-align: center;
+    height: 30px;
+    margin-left: 30%;
+    
+    box-shadow: 13px 17px 10px black;
+}
+
+.downloadinglink8 a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+
+
+
+
+
 .bubbles{
     position: absolute;
    
