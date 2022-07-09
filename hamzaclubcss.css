@@ -79,7 +79,7 @@ nav .logo{
 .contact a{
     text-decoration: none;
     color: white;
-    
+     transition: 1s;
 } 
 .contact:hover{
     background-color: gray;
@@ -1147,14 +1147,10 @@ nav .logo{
         color: white;
     }
     .searchbox {
-      margin-left: 60%;
-      
-       
-      
-    }
+     
+     }
     .searchbox input{
-        font-size: x-small;
-        height: 20px;
+        
 
     }
 
@@ -1162,7 +1158,7 @@ nav .logo{
         background-color: rgb(18, 22, 22);
         color: white;
         font-size: x-small;
-        position: fixed;
+        
     }
     .searchbox button:hover{
         background-color: gray;
