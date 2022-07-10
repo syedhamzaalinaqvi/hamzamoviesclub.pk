@@ -784,6 +784,29 @@ nav .logo{
     transition: 0.5s;
 
 }
+.downloadinglink9{
+    float: left;
+    background-color: blue;
+    color: white;
+    width: 40%;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 30%;
+    
+    box-shadow: 13px 17px 10px black;
+}
+
+.downloadinglink9 a{
+    text-decoration: none;
+    color: white;
+    
+}
+.downloadinglink9:hover{
+    background-color: gray;
+    border-radius: 10px 0 10px;
+    transition: 0.5s;
+
+}
 
 
 
