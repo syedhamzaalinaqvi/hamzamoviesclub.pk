@@ -24,7 +24,7 @@ nav{
     font-size: x-large;
     font-weight: 500;
     background-color: blue;
-    display: inline;
+    
 }
 .logo .hamza{
     color: white;
@@ -34,6 +34,10 @@ nav{
 }
 .logo .e{
     color: white;
+}
+.logo .s{
+    color: green;
+
 }
 .logo .club{
     color: green;
