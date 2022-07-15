@@ -24,6 +24,7 @@ nav{
     font-size: x-large;
     font-weight: 500;
     background-color: blue;
+    display: flex;
 }
 .logo .hamza{
     color: white;
