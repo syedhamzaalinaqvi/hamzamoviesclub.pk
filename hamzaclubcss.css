@@ -10,20 +10,55 @@ body{
 
 
 nav{
-    height: 30px;
-    justify-content: space-between;
+    
+    height: 80px;
     background-color: black;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
     display: flex;
     padding: 0 50px 0 100px;
-    align-items: center;
+}
+.logo{
+    font-size: x-large;
+    font-weight: 500;
+}
+.logo .hamza{
+    color: white;
+}
+.logo .movies{
+    color: green;
+}
+.logo .e{
+    color: white;
+}
+.logo .club{
+    color: green;
+}
+nav ul{
+    display: flex;
+
+}
+nav ul li{
+    list-style: none;
+    margin: 10px;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover{
+    color: green;
 }
 
-nav .logo{
-    color: red;
-    font-size: 25px;
-    letter-spacing: 1px;
-    font-weight: 200px;
-}
+
+
+
+
+
+
+
 
 
 
