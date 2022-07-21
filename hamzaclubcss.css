@@ -19,11 +19,31 @@ nav{
 }
 
 nav .logo{
-    color: red;
+    
     font-size: 25px;
     letter-spacing: 1px;
     font-weight: 200px;
 }
+nav .logo .h{
+    color: white;
+    
+
+}
+
+nav .logo .m{
+    color: white;
+    
+
+}
+
+nav .logo .c{
+    color: white;
+    
+
+}
+
+
+
 
 
 
