@@ -86,7 +86,7 @@ nav .logo .mc{
     color: white;
 }
 .home:hover{
-    background-color: gray;
+    background-color: green;
     transition: 0.5s;
 
 } 
@@ -105,7 +105,7 @@ nav .logo .mc{
      transition: 1s;
 } 
 .contact:hover{
-    background-color: gray;
+    background-color: green;
     
 
 }
@@ -123,7 +123,7 @@ nav .logo .mc{
     color: white;
 }
 .about:hover{
-    background-color: gray;
+    background-color: green;
     transition: 0.5s;
 
 }  
@@ -449,7 +449,7 @@ nav .logo .mc{
 }
 
 .nextprebtn .nextbtn:hover{
-     background-color: gray;
+     background-color: green;
     transition: 0.5s;
 }
 
@@ -473,7 +473,7 @@ nav .logo .mc{
 }
 
 .nextprebtn .prebtn:hover{
-    background-color: gray;
+    background-color: green;
     transition: 0.5s;
 }
 .nextprebtn .pgnumber{
@@ -482,7 +482,7 @@ nav .logo .mc{
     width: 8%;
     margin-left: 90%;
     border-radious: 2px;
-    color: white;
+    color: green;
     text-align: center;
 }
 
