@@ -396,7 +396,7 @@ nav .logo .mc{
 
 }
 .nextbuttondiv button{
-    background-color:  green;
+    background-color:  rgb(18, 22, 22);
     align-content: center;
     width: 8%;
     letter-spacing: 1px;
@@ -412,7 +412,7 @@ nav .logo .mc{
 
 }
 .nextbuttondiv button:hover{
-    background-color: gray;
+    background-color: green;
     transition: 0.5s;
 }
 .nextprebtn{
