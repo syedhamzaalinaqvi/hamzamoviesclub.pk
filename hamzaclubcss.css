@@ -481,7 +481,8 @@ nav .logo .mc{
     background-color: black;
     width: 8%;
     margin-left: 90%;
-    border-radious: 2px;
+    
+    border-radius: 2px;
     color: green;
     text-align: center;
 }
@@ -593,9 +594,7 @@ nav .logo .mc{
     text-align: center;
     box-shadow: 13px 17px 10px black;
 }
-.downloadingserver p{
-    
-}
+
 .downloadinglink{
     float: left;
     background-color: blue;
@@ -1107,7 +1106,8 @@ nav .logo .mc{
   nav{
     height: 50px;
     padding: 0;
-    content-align: none;
+    /*content-align: none;*/
+    
 }
 
 
@@ -1221,20 +1221,7 @@ nav .logo{
     .searchbox {
       display: none;
      }
-    .searchbox input{
-        
-
-    }
-
-    .searchbox button{
-        background-color: rgb(18, 22, 22);
-        color: white;
-        font-size: x-small;
-        
-    }
-    .searchbox button:hover{
-        background-color: gray;
-    }
+   
     .blank{
         width: 100%;
         height: 30px;
@@ -1514,7 +1501,7 @@ nav .logo{
              
     }
     .nextprebtn .prebtn{
-        width: 15%;
+        width: 19%;
     }
   
     .nextprebtn .pgnumber{
@@ -1522,7 +1509,7 @@ nav .logo{
         font-size: x-small;
         margin-left: 84%;
     }
-    #formid{
+    
         
     }
     .formdiv{
@@ -1572,9 +1559,7 @@ nav .logo{
         background-color: gray;
         transition: 0.5s;
     }
-    .formid{
-        
-    }
+    
     
     .footer{
         float: left;
@@ -1669,9 +1654,7 @@ nav .logo{
         background-color: gray;
         transition: 0.5s;
     }
-    .formid{
-        
-    }
+   
     
     .aboutpage .footer{
         float: left;
@@ -1713,9 +1696,7 @@ nav .logo{
         text-align: center;
         box-shadow: 13px 17px 10px black;
     }
-    .downloadingserver p{
-        
-    }
+   
     .downloadingserver .downloadinglink{
         float: left;
         background-color: blue;
@@ -1790,9 +1771,7 @@ nav .logo{
         background-color: gray;
         transition: 0.5s;
     }
-    .downloadingserver .formid{
-        
-    }
+   
     
     .downloadingserver .footer{
         float: left;
@@ -1810,8 +1789,7 @@ nav .logo{
         margin-left: 20%;
         font-size: x-small;
     }
-}    
-
+    
 
 
 
