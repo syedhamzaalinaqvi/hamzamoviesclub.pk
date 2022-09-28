@@ -585,7 +585,7 @@ nav .logo .mc{
 .downloadingserver{
     float: left;
     width: 50%;
-    height: 500px;
+    height: 600px;
     background-color: rgb(18, 22, 22);
     margin-top: 15px;
     margin-left: 25%;
@@ -1711,7 +1711,7 @@ nav .logo{
     .downloadingserver{
         float: left;
         width: 70%;
-        height: 450px;
+        height: 500px;
         background-color: rgb(18, 22, 22);
         margin-top: 15px;
         margin-left: 15%;
