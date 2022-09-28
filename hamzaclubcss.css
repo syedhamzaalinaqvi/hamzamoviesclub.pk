@@ -585,7 +585,7 @@ nav .logo .mc{
 .downloadingserver{
     float: left;
     width: 50%;
-    height: 400px;
+    height: 500px;
     background-color: rgb(18, 22, 22);
     margin-top: 15px;
     margin-left: 25%;
@@ -829,6 +829,30 @@ nav .logo .mc{
     transition: 0.5s;
 
 }
+.downloadinglink10{
+    float: left;
+    background-color: blue;
+    color: white;
+    width: 40%;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 30%;
+    
+    box-shadow: 13px 17px 10px black;
+}
+
+.downloadinglink10 a{
+    text-decoration: none;
+    color: white;
+    
+}
+.downloadinglink10:hover{
+    background-color: gray;
+    border-radius: 10px 0 10px;
+    transition: 0.5s;
+
+}
+
 
 
 
