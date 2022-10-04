@@ -534,6 +534,7 @@ nav .logo .mc{
 .formdiv form button:hover{
     background-color: green;
     transition: 0.5s;
+    cursor: pointer;
 }
 #formid{
     transition: 1s;
@@ -976,13 +977,6 @@ nav .logo .mc{
         bottom: 768px;
         transform: translateX(-300px);
     }
-}
-
-.formdiv button:hover{
-    background-color: green;
-    transition: 0.5s;
-    cursor: pointer;
-
 }
 
 
