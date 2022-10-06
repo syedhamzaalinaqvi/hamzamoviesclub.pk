@@ -982,6 +982,8 @@ nav .logo .mc{
 
 .line{
     background-color: red;
+    size: 1px ;
+    border: none;
     
 
 }
