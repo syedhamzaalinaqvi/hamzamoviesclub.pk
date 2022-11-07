@@ -537,6 +537,55 @@ nav .logo .mc{
     color: blue;
 }
 
+.pnumber #pn1{
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+}
+.pnumber #pn1:hover{
+    background-color: antiquewhite;
+}
+
+
+
+
+
+
+.pnumber #pn2{
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+}
+.pnumber #pn2:hover{
+    background-color: antiquewhite;
+}
+
+
+
+
+
+.pnumber #pn3{
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+}
+.pnumber #pn3:hover{
+    background-color: antiquewhite;
+}
+
+
+
+
+
+.pnumber #pn4{
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+}
+.pnumber #pn4:hover{
+    background-color: antiquewhite;
+}
+
 
 
 
