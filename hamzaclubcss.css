@@ -862,6 +862,79 @@ nav .logo .mc{
 
 
 
+
+
+
+
+
+
+
+.pnumber{
+    margin-top: ;
+    background-color: ;
+    width: 100%;
+  
+    text-align: center;
+    float: left;
+    margin-top: 35px;  
+    
+  
+  
+  }
+  .pnumber a{
+      text-decoration: none;
+      color: white;
+      background-color: black;
+      padding: 10px;
+      border-radius: 3px;
+      border: 1px solid red;
+     
+  }
+  .pnumber a:hover{
+      background-color: antiquewhite;
+      color: black ;
+      border: 1px solid green;
+  }
+  .pnumber a .i{
+      color: blue;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .bubbles{
     position: absolute;
    
@@ -985,7 +1058,6 @@ nav .logo .mc{
     size: 1px ;
     border: none;
     
-
 }
 
 
