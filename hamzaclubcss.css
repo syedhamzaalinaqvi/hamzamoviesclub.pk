@@ -537,6 +537,20 @@ nav .logo .mc{
     color: blue;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+/*pn1 to  pn13 css*/
+
+
 .pnumber #pn1{
     background-color: white;
     color: black;
@@ -589,7 +603,110 @@ nav .logo .mc{
 
 
 
+.pnumber #pn5{
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+}
+.pnumber #pn5:hover{
+    background-color: antiquewhite;
+}
 
+
+
+.pnumber #pn6{
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+}
+.pnumber #pn6:hover{
+    background-color: antiquewhite;
+}
+
+
+
+
+.pnumber #pn7{
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+}
+.pnumber #pn7:hover{
+    background-color: antiquewhite;
+}
+
+
+
+
+.pnumber #pn8{
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+}
+.pnumber #pn8:hover{
+    background-color: antiquewhite;
+}
+
+
+
+
+
+.pnumber #pn9{
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+}
+.pnumber #pn9:hover{
+    background-color: antiquewhite;
+}
+
+
+
+
+
+.pnumber #pn10{
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+}
+.pnumber #pn10:hover{
+    background-color: antiquewhite;
+}
+
+
+
+.pnumber #pn11{
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+}
+.pnumber #pn11:hover{
+    background-color: antiquewhite;
+}
+
+
+
+.pnumber #pn12{
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+}
+.pnumber #pn12:hover{
+    background-color: antiquewhite;
+}
+
+
+
+
+
+.pnumber #pn13{
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+}
+.pnumber #pn13:hover{
+    background-color: antiquewhite;
+}
 
 
 
