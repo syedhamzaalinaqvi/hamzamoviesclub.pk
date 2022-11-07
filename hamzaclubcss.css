@@ -877,7 +877,7 @@ nav .logo .mc{
     text-align: center;
     float: left;
     margin-top: 35px;  
-    
+    position: absolute;
   
   
   }
